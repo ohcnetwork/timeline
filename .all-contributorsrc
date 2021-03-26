@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tomahawk-pilot",
+      "name": "syamkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11440246?v=4",
+      "profile": "https://syam.dev",
+      "contributions": [
+        "infra"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "timeline",
+  "projectOwner": "coronasafe",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
